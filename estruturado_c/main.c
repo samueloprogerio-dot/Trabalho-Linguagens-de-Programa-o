@@ -202,3 +202,4 @@ int main(void) {
     liberarMemoria(alunos, quantidadeAlunos);
     return 0;
 }
+// seco
